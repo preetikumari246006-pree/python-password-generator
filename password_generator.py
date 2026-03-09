@@ -1,15 +1,15 @@
 import random
 import string
 
-print("Python Password Generator")
+print("Python Password Generator 🔐")
 
+# Ask for password length
 length = int(input("Enter password length: "))
 
-characters = string.ascii_letters + string.digits + string.punctuation
+# Ask which type of characters to include
+print("Choose character types to include:")
+print("1 - Letters only")
+print("2 - Letters + Numbers")
+print("3 - Letters + Numbers + Symbols")
 
-password = ""
-
-for i in range(length):
-    password += random.choice(characters)
-
-print("Generated Password:", password)
+choice = input("Enter 1, 2, or 3: ")
