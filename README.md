@@ -11,7 +11,7 @@ This project generates strong random passwords using letters, numbers, and symbo
 - Uses letters, numbers, and special characters
 - Lightweight and easy to use
 
-  ## How to Run
+## How to Run
 
 1. Clone the repository
 
@@ -25,13 +25,10 @@ cd python-password-generator
 
 python password_generator.py
 
-
- ## Example Output
+## Example Output
 
 Python Password Generator
 
 Enter password length: 10
 
 Generated Password: K@9dP!2Lm#
-
-
