@@ -14,11 +14,7 @@ A robust Python-based utility engineered to generate **secure and randomized pas
 
 ---
 
-## 🛠️ Getting Started
 
-### 📌 Installation
 
-Clone the repository:
 
-```bash
-git clone https://github.com/yourusername/python-password-generator
+
